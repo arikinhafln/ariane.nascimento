@@ -8,3 +8,10 @@ _____________________________________________
 - 🇧🇷 I'm from Rio de Janeiro, Brazil
 - 👩🏽‍💻 Currently taking a Specialization in Data Science & AI applied on financial market
 - 🐍 Passionate about languages **#teamPythonforever**
+
+### I'm learning 
+            <i class="devicon-python-plain-wordmark colored"></i>
+          
+            <i class="devicon-azuresqldatabase-plain colored"></i>
+          
+          
